@@ -1,0 +1,90 @@
+body{
+    background-image: url("images/bg-pattern-top-desktop.svg"),url("images/bg-pattern-bottom-desktop.svg");
+    background-blend-mode: multiply;
+    z-index: 1;
+}
+#First{
+    font-size: 15px;
+    font-family: Spartan;
+   background-color:hsl(0, 0%, 100%);
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+   margin: 150px 150px;
+     height: 100vh; 
+     text-align: center;
+     z-index: 0;
+}
+}
+table{
+   
+    position: relative;
+}
+#sec{
+    width:300px
+}
+.md{
+    position: absolute;
+}
+.vd{
+    height: 45px;
+    background-color: hsl(300, 24%, 96%);
+    width: 370px;
+    border-radius: 5%;
+    margin-top: 10px;
+    font-weight: 500;
+}
+span{
+   margin-left: 10px;
+   color:hsl(300, 43%, 22%) ;
+}
+h1{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+.one{
+    margin-right: 40px;
+    margin-left: 10px;
+}
+.two{
+    margin-right: 50px;
+    margin-left: 60px;
+}
+.three{
+    margin-right: 60px;
+    margin-left: 90px;
+}
+.pit{
+    color: hsl(303, 10%, 53%);
+}
+.card-img-top{
+    width:50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 40px;
+    border-radius: 50%;
+}
+h6{
+    margin-top: 10px;
+    position: relative;
+}
+.card{
+    background-color:hsl(300, 43%, 22%) ;
+}
+.nd{
+    color: hsl(333, 80%, 67%);
+}
+.card-text{
+    color: hsl(0, 0%, 100%);
+}
+@media(max-width:375px){
+    #sec{
+        position: absolute;
+    }
+    #tri{
+        position: relative;
+    }
+    .attribution{
+        display: none;
+    }
+}
