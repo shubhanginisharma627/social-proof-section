@@ -29,7 +29,7 @@ table{
 .vd{
     height: 45px;
     background-color: hsl(300, 24%, 96%);
-    width: 370px;
+    width: 390px;
     border-radius: 5%;
     margin-top: 10px;
     font-weight: 500;
@@ -76,6 +76,10 @@ h6{
 }
 .card-text{
     color: hsl(0, 0%, 100%);
+}
+.bluff{
+    margin-left:3px;
+    margin-right:3px;
 }
 @media(max-width:375px){
     #sec{
