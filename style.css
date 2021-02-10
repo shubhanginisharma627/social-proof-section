@@ -13,14 +13,7 @@ h1{
 .pit{
     color: hsl(303, 10%, 53%);
 }
-li{
-    color: hsl(300, 43%, 22%);
-    font-weight: 500;
-    background-color: hsl(300, 24%, 96%);
-    border-radius:5%; 
-     height: 50px;
-   
-}
+
 h6{
     color: white;
     font-weight: 500;
@@ -54,6 +47,13 @@ h6{
     height: 100vh;
 
    
+}
+.make{
+     color: hsl(300, 43%, 22%);
+    font-weight: 500;
+    background-color: hsl(300, 24%, 96%);
+    border-radius:5%; 
+     height: 50px;
 }
 .card-deck{
    
