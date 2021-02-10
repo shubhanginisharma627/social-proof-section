@@ -19,6 +19,7 @@ li{
     background-color: hsl(300, 24%, 96%);
     border-radius:5%; 
      height: 50px;
+    margin: 10px;
 }
 h6{
     color: white;
@@ -80,13 +81,13 @@ h6{
     margin-top: 20px;
 }
 #one{
-    margin: 0px 40px 40px 40px;
+    margin: 0px 40px 20px 40px;
 }
 #two{
-    margin: 0px 40px 40px 60px;
+    margin: 0px 40px 20px 60px;
 }
 #three{
-    margin: 0px 40px 40px 80px;
+    margin: 0px 40px 20px 80px;
 }
 ul{
     list-style-type: none;
