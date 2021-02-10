@@ -69,13 +69,13 @@ li{
     height: 50px;
     border-radius: 50%;
     margin-left: 20px;
-    margin-right:0px ;
-    right: 20px;
+   
+
 }
 
 .head{
     display: grid;
-    grid-template-columns: 0.5fr 0.5fr;
+    grid-template-columns: 0.1fr 0.1fr;
     grid-gap: 0px;
 }
 #sec{
