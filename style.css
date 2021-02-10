@@ -49,11 +49,15 @@ h6{
    
 }
 .make{
-     color: hsl(300, 43%, 22%);
+     
+     height: 50px;
+     border-radius:5%;
+}
+li{
+    color: hsl(300, 43%, 22%);
     font-weight: 500;
     background-color: hsl(300, 24%, 96%);
-    border-radius:5%; 
-     height: 50px;
+    
 }
 .card-deck{
    
