@@ -19,12 +19,12 @@ h6{
     font-weight: 500;
     margin-top: 10px;
    float:left;
-    margin-left:5px;
+    margin-left:10px;
   
 }
 .card{
     background-color: hsl(300, 43%, 22%);
-    height:250px;
+    height:200px;
     display: flex;
     width:350px;
     margin-left: 10%;
