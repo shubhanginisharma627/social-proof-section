@@ -101,13 +101,11 @@ ul{
        justify-content: center;
        position: relative;
     }
-    #second{
+  /*  #second{
        position:relative;
-    }
+    }*/
     #third{
-        position: absolute;
-        top: 50%;
-       transform: translateY(-50%);
+       position:relative
     }
 
 }
