@@ -24,7 +24,7 @@ h6{
 }
 .card{
     background-color: hsl(300, 43%, 22%);
-    height:200px;
+    height:150px;
     display: flex;
     width:400px;
     margin-left: 10%;
