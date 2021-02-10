@@ -19,6 +19,7 @@ h6{
     font-weight: 500;
     margin-top: 10px;
    float:center;
+    width:50px;
 }
 .card{
     background-color: hsl(300, 43%, 22%);
@@ -30,6 +31,7 @@ h6{
 }
 .nd{
     color: hsl(333, 80%, 67%);
+    width:50px;
 }
 .card-text{
     color: hsl(0, 0%, 100%);
