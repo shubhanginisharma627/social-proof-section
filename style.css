@@ -101,7 +101,9 @@ ul{
        justify-content: center;
        position: absolute;
     }
-  
+  #second{
+      width:100%;
+    }
     #third{
        position:relative;
     }
