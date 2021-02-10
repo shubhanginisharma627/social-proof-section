@@ -53,9 +53,9 @@ li{
     color: hsl(300, 43%, 22%);
     font-weight: 500;
     background-color: hsl(300, 24%, 96%);
-    height: 50px;
+    height: 70px;
      border-radius:5%;
-    paddind-top:10px;
+    paddind-top:20px;
     
 }
 .card-deck{
