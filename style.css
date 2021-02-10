@@ -19,11 +19,11 @@ h6{
     font-weight: 500;
     margin-top: 10px;
    float:center;
-    width:50px;
+  
 }
 .card{
     background-color: hsl(300, 43%, 22%);
-    height:265px;
+    height:250px;
     display: flex;
     width:350px;
     margin-left: 10%;
