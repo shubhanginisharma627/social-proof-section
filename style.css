@@ -24,9 +24,9 @@ h6{
 }
 .card{
     background-color: hsl(300, 43%, 22%);
-    height:250px;
+    height:200px;
     display: flex;
-    width:370px;
+    width:400px;
     margin-left: 10%;
     margin-right: 12%;
 }
@@ -115,6 +115,10 @@ ul{
     }
     #third{
        position:static;
+    }
+    .card{
+        width:auto;
+        height:auto
     }
 
 }
