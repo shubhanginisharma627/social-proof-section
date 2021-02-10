@@ -16,8 +16,8 @@ h1{
 li{
     color: hsl(300, 43%, 22%);
     font-weight: 500;
-    background-color:hsl(303, 10%, 53%);
-    
+    background-color: hsl(300, 24%, 96%);
+    border-radius:5%; 
      height: 50px;
 }
 h6{
