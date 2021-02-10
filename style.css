@@ -24,9 +24,9 @@ h6{
 }
 .card{
     background-color: hsl(300, 43%, 22%);
-    height:200px;
+    height:250px;
     display: flex;
-    width:350px;
+    width:370px;
     margin-left: 10%;
     margin-right: 12%;
 }
